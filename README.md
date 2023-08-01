@@ -11,11 +11,11 @@ and coding of course :computer:
 
 ### Skills and Tools
 
-[<img text-align="left" alt="HTML5" width="26px" src="https://github.com/AinaSha/AinaSha/assets/87858216/7e5d0fb9-f702-4d14-88dd-e4bc78949449
-" />]
-<img text-align="left" alt="CSS3" width="26px" src="[https://raw.githubusercontent.com/github/explore/8…7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png](https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.jpg)" />
-<img text-align="left" alt="SCSS" width="26px" src="[https://github.com/topics/sasshttps://github.com/topics/sass](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png)" />
-<img text-align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/8…4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="HTML5" width="26px" src="https://github.com/AinaSha/AinaSha/assets/87858216/7e5d0fb9-f702-4d14-88dd-e4bc78949449
+" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/8…7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="SCSS" width="26px" src="https://github.com/topics/sasshttps://github.com/topics/sass" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/8…4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <br />
 <br />
