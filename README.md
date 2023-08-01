@@ -3,9 +3,9 @@
 ### I'm frontend developer
 
 I like:
-- :hiking: hiking
+- :hike: hike
 - :running: running
-- :to socialize with new people: to socialize with new people
+- :socializing with new people: to socialize with new people
 
 and coding of course :computer:
 
