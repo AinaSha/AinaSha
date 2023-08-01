@@ -3,9 +3,9 @@
 ### I'm frontend developer
 
 I like:
-- :baking: baking
-- :running: running
-- :socializing with new people: to socialize with new people
+- 🥧: baking
+- 🏃‍♀️: running
+- 💁: to socialize with new people
 
 and coding of course :computer:
 
