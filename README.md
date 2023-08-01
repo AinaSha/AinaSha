@@ -18,13 +18,11 @@ and coding of course :computer:
 
 <br />
 <br />
-<br />
 
 [<img  alt="React" width="26px" src="	https://raw.githubusercontent.com/github/explore/8…f2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
 [<img  alt="Redux" width="26px" src="	https://raw.githubusercontent.com/github/explore/8…f2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
 [<img  alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/8…50fe8e3517d3494d/topics/typescript/typescript.png" />]
 
-<br />
 <br />
 <br />
 
@@ -34,7 +32,7 @@ and coding of course :computer:
 [<img  alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/8…2b95574fe4c54617/topics/github-api/github-api.png" />]
 [<img  alt="ESLint" width="26px" src="	https://raw.githubusercontent.com/github/explore/8…fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" />]
 [<img  alt="Postman" width="26px" src="	" />]
-[<img  alt="FileZilla" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/1024px-FileZilla_logo.svg.png" />]
+<img  alt="FileZilla" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/1024px-FileZilla_logo.svg.png" />
 [<img  alt="Wordpress" width="26px" src="https://www.linkedin.com/in/ainagul-shabdanova-2016b0225/" />]
 
 <br />
