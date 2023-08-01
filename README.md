@@ -3,7 +3,7 @@
 ### I'm frontend developer
 
 I like:
-- :hike: hike
+- baking: baking
 - :running: running
 - :socializing with new people: to socialize with new people
 
