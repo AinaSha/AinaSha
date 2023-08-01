@@ -8,7 +8,9 @@ I like:
 - 💁: to socialize with new people
 
 and coding of course :computer:
-
+<br />
+<br />
+<br />
 ### Skills and Tools
 
 <img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" />
