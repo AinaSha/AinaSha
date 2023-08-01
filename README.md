@@ -11,7 +11,7 @@ and coding of course :computer:
 
 ### Skills and Tools
 
-<img align="left" alt="HTML5" width="26px" src="https://github.com/AinaSha/AinaSha/assets/87858216/7e5d0fb9-f702-4d14-88dd-e4bc78949449
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png
 " />
 <img align="left" alt="CSS3" width="26px" src="https://img.freepik.com/free-icon/css_318-698167.jpg" />
 <img align="left" alt="SCSS" width="26px" src="https://github.com/topics/sasshttps://github.com/topics/sass" />
