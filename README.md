@@ -1,16 +1,50 @@
-### Hi there 👋
+## Hello, I'm AinaSha 👋
 
-<!--
-**AinaSha/AinaSha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm frontend developer
 
-Here are some ideas to get you started:
+I like:
+- :hiking
+- :running
+- :to socialize with new people
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+and coding of course :computer:
+
+### Skills and Tools
+
+[<img  alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/8…4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
+[<img  alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/8…7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
+[<img  alt="SCSS" width="26px" src="https://github.com/topics/sasshttps://github.com/topics/sass" />]
+[<img  alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/8…4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
+
+<br />
+<br />
+<br />
+
+[<img  alt="React" width="26px" src="	https://raw.githubusercontent.com/github/explore/8…f2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
+[<img  alt="Redux" width="26px" src="	https://raw.githubusercontent.com/github/explore/8…f2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
+[<img  alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/8…50fe8e3517d3494d/topics/typescript/typescript.png" />]
+
+<br />
+<br />
+<br />
+
+[<img  alt="Figma" width="26px" src="	" />]
+[<img  alt="Photoshop" width="26px" src="	" />]
+[<img  alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/8…7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
+[<img  alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/8…2b95574fe4c54617/topics/github-api/github-api.png" />]
+[<img  alt="ESLint" width="26px" src="	https://raw.githubusercontent.com/github/explore/8…fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" />]
+[<img  alt="Postman" width="26px" src="	" />]
+[<img  alt="FileZilla" width="26px" src="	" />]
+[<img  alt="Wordpress" width="26px" src="https://www.linkedin.com/in/ainagul-shabdanova-2016b0225/" />]
+
+<br />
+<br />
+<br />
+
+### You can contact me: 
+
+[<img  alt="Telegram" width="26px" src="" />][Telegram]
+[<img  alt="Telegram" width="26px" src="" />][LinkedIn]
+
+[Telegram]: https://t.me/Ainasha10
+[LinkedIn]: https://www.linkedin.com/in/ainagul-shabdanova-2016b0225/
