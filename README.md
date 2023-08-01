@@ -14,7 +14,7 @@ and coding of course :computer:
 <img align="left" alt="HTML5" width="26px" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png](https://raw.githubusercontent.com/github/explore/8…4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)
 " />
 <img align="left" alt="CSS3" width="26px" src="https://img.freepik.com/free-icon/css_318-698167.jpg" />
-<img align="left" alt="SCSS" width="26px" src="https://github.com/topics/sasshttps://github.com/topics/sass" />
+<img align="left" alt="SCSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/8…4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <br />
@@ -43,7 +43,6 @@ and coding of course :computer:
 ### You can contact me: 
 
 [<img  alt="Telegram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" />][Telegram]
-
 [<img  alt="LinkedIn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" />][LinkedIn]
 
 [Telegram]: https://t.me/Ainasha10
