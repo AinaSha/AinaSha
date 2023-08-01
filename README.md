@@ -43,6 +43,7 @@ and coding of course :computer:
 ### You can contact me: 
 
 [<img  alt="Telegram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" />][Telegram]
+
 [<img  alt="LinkedIn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" />][LinkedIn]
 
 [Telegram]: https://t.me/Ainasha10
