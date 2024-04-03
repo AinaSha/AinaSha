@@ -12,7 +12,6 @@ and coding of course :computer:
 <br />
 <br />
 [![AinaSha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AinaSha)](https://github.com/AinaSha/github-readme-stats)
-
 <br />
 <br />
 ### Skills and Tools
