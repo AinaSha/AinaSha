@@ -21,7 +21,7 @@ and coding of course :computer:
 <img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png" />
 <img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
 <img align="left" alt="Redux" width="26px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
-<img align="left" alt="Nextjs" width="26px" src="https://cdn.worldvectorlogo.com/logos/nextjs.svg" />
+<img align="left" alt="Nextjs" width="26px" src="https://cdn.worldvectorlogo.com/logos/next.svg" />
 <img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" />
 <img align="left" alt="Wordpress" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/2048px-WordPress_blue_logo.svg.png" />
 <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
