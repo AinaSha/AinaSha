@@ -1,7 +1,8 @@
-## Hello, I'm AinaSha 👋
+## Hello 👋
 
-### I'm frontend developer
+### Welcome to my page!
 
+I'm Ainagul, FrontEnd developer from  Bishkek, Kyrgyzstan
 I like:
 - 🥧: baking
 - 🏃‍♀️: running
