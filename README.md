@@ -3,6 +3,7 @@
 ### Welcome to my page!
 
 I'm Ainagul, FrontEnd developer from  Bishkek, Kyrgyzstan
+
 I like:
 - 🥧: baking
 - 🏃‍♀️: running
