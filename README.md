@@ -11,8 +11,6 @@ I like:
 
 and coding of course :computer:
 <br />
-<div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AinaSha&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
 <br />
 <br />
 [![AinaSha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AinaSha)](https://github.com/AinaSha/github-readme-stats)
