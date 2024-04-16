@@ -4,12 +4,6 @@
 
 I'm Ainagul, FrontEnd developer from  Bishkek, Kyrgyzstan
 
-I like:
-- 🥧: baking
-- 🏃‍♀️: running
-- 💁: to socialize with new people
-
-and coding of course :computer:
 <br />
 <br />
 <br />
