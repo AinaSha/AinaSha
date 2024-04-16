@@ -4,9 +4,6 @@
 
 I'm Ainagul, FrontEnd developer from  Bishkek, Kyrgyzstan
 
-<br />
-<br />
-<br />
 [![AinaSha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AinaSha)](https://github.com/AinaSha/github-readme-stats)
 <br />
 <br />
